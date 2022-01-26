@@ -1,0 +1,11 @@
+﻿<updates>
+  <App appID="DiRoots.ProSheets">
+    <LatestVersion>1.2.8.0</LatestVersion>
+    <Name>ProSheets</Name>
+    <DownloadPathURL>https://github.com/DiRoots-Limited/DiRoots.ProSheets.Releases/releases/download/v1.2.8/ProSheets_1280.exe</DownloadPathURL>
+    <RegistryPath>ProSheets 1.2.8</RegistryPath>
+    <PictureURL></PictureURL>
+    <ChangelogURL></ChangelogURL>
+    <DescriptionURL></DescriptionURL>
+  </App>
+</updates>
