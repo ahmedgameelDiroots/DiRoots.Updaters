@@ -8,7 +8,7 @@
     <RegistryPath>ProSheets</RegistryPath>
   </App>
     <App appID="DiRoots.FamilyReviser">
-    <Name>ProSheets</Name>
+    <Name>FamilyReviser</Name>
     <Application>Revit</Application>
     <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.FamilyReviser.Releases/releases</GitHubApiPath>
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/FamilyReviser/icon.png</PictureURL>
