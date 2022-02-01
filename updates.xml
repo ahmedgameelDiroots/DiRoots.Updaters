@@ -4,7 +4,7 @@
     <Application>Revit</Application>
     <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.ProSheets.Releases/releases</GitHubApiPath>
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/ProSheets/icon.png</PictureURL>
-    <DescriptionURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/ProSheets/description.txt</DescriptionURL>
+    <DescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.ProSheets.Releases</DescriptionURL>
     <RegistryPath>ProSheets</RegistryPath>
   </App>
     <App appID="DiRoots.FamilyReviser">
@@ -12,7 +12,7 @@
     <Application>Revit</Application>
     <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.FamilyReviser.Releases/releases</GitHubApiPath>
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/FamilyReviser/icon.png</PictureURL>
-    <DescriptionURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/FamilyReviser/description.txt</DescriptionURL>
+    <DescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.FamilyReviser.Releases</DescriptionURL>
     <RegistryPath>FamilyReviser</RegistryPath>
   </App>
 </updates>
