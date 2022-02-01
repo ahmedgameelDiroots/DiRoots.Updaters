@@ -12,7 +12,7 @@
     <Application>Revit</Application>
     <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.FamilyReviser.Releases/releases</GitHubApiPath>
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/FamilyReviser/icon.png</PictureURL>
-    <DescriptionURLhttps>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.FamilyReviser.Releases/master/README.md</DescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.FamilyReviser.Releases/master/README.md</DescriptionURL>
     <RegistryPath>FamilyReviser</RegistryPath>
   </App>
 </updates>
