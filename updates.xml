@@ -8,13 +8,13 @@
     <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/README.md</DescriptionURL>
     <RegistryPath>ProSheets</RegistryPath>
   </App>
-    <App appID="DiRoots.FamilyReviser">
-    <Name>FamilyReviser</Name>
+    <App appID="DiRoots.One">
+    <Name>DiRootsOne</Name>
     <Application>Revit</Application>
-    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.FamilyReviser.Releases/releases</GitHubApiPath>
-    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/FamilyReviser/icon.png</PictureURL>
-    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.FamilyReviser.Releases</ShortDescriptionURL>
-    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.FamilyReviser.Releases/master/README.md</DescriptionURL>
-    <RegistryPath>FamilyReviser</RegistryPath>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/icon.png</PictureURL>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.md</DescriptionURL>
+    <RegistryPath>DiRootsOne</RegistryPath>
   </App>
 </updates>
