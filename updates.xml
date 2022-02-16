@@ -15,6 +15,6 @@
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/icon.png</PictureURL>
     <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases</ShortDescriptionURL>
     <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.md</DescriptionURL>
-    <RegistryPath>DiRootsOne</RegistryPath>
+    <RegistryPath>DiRoots.One</RegistryPath>
   </App>
 </updates>
