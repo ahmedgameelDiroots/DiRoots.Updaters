@@ -1,4 +1,13 @@
 ﻿<updates>
+  <App appID="DiRoots.One">
+    <Name>DiRootsOne</Name>
+    <Application>Revit</Application>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/icon.png</PictureURL>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.md</DescriptionURL>
+    <RegistryPath>DiRoots.One</RegistryPath>
+  </App>
   <App appID="DiRoots.ProSheets">
     <Name>ProSheets</Name>
     <Application>Revit</Application>
@@ -7,14 +16,5 @@
     <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.ProSheets.Releases</ShortDescriptionURL>
     <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/README.md</DescriptionURL>
     <RegistryPath>ProSheets</RegistryPath>
-  </App>
-    <App appID="DiRoots.One">
-    <Name>DiRootsOne</Name>
-    <Application>Revit</Application>
-    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases/releases</GitHubApiPath>
-    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/icon.png</PictureURL>
-    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases</ShortDescriptionURL>
-    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.md</DescriptionURL>
-    <RegistryPath>DiRoots.One</RegistryPath>
   </App>
 </updates>
